@@ -31,14 +31,9 @@ Matplotlib
 Seaborn
 
 ## 🗄️ Databases
-MySQL / SQLite
+MySQL / SQLite /PLSQL
 Data Querying & Data Analysis
 
-🛠️ Tools & Platforms
-Git & GitHub
-Google Colab
-Jupyter Notebook
-Excel (Data Cleaning & Basic Analysis)
 ---
 ## 📫 Contact Me - Email: your-ahireabhi753@gmail.com - LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
 --- 
