@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: **ahireabhi753@gmail.com**  
-- 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/abhishek-ahire-49bb6a318)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318 
 - 💻 GitHub: https://github.com/abhiahire91  
 
 ---
