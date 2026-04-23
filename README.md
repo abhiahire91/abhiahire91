@@ -1,7 +1,7 @@
 Hi, I'm Abhishek Ahire
 🚀 Aspiring Data Scientist | Machine Learning Enthusiast 
 --- 
-##💡 About Me - Passionate about Data Science & Machine Learning - Strong interest in NLP and real-world problem solving - Skilled in building ML models and data visualization
+💡 About Me - Passionate about Data Science & Machine Learning - Strong interest in NLP and real-world problem solving - Skilled in building ML models and data visualization
 --- 
 ## 🛠️ Tech Stack - Python 🐍 - Machine Learning 🤖 - NLP (Natural Language Processing) - Pandas, NumPy - Scikit-learn - Matplotlib, Seaborn 
 --- 
@@ -35,7 +35,7 @@ MySQL / SQLite /PLSQL
 Data Querying & Data Analysis
 
 ---
-## 📫 Contact Me - Email: ahireabhi753@gmail.com  LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
+## 📫 Contact Me - Email: ahireabhi753@gmail.com - LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
 --- 
 ## ⭐ *Keep Learning, Keep Building!*
 
