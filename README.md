@@ -13,7 +13,7 @@ Hi, I'm Abhishek Ahire
 ---
 ## 🧠 Skills
 ## 💻 Programming Languages
-Python
+Python,
 SQL
 
 ## 🤖 Machine Learning & AI
