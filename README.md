@@ -35,7 +35,7 @@ MySQL / SQLite /PLSQL
 Data Querying & Data Analysis
 
 ---
-## 📫 Contact Me - Email: ahireabhi753@gmail.com - LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
+## 📫 Contact Me - Email: ahireabhi753@gmail.com  LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
 --- 
 ## ⭐ *Keep Learning, Keep Building!*
 
