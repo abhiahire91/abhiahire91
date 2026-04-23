@@ -1,4 +1,19 @@
-## Hi there 👋
+Hi, I'm Abhishek Ahire
+🚀 Aspiring Data Scientist | Machine Learning Enthusiast 
+--- 
+##💡 About Me - Passionate about Data Science & Machine Learning - Strong interest in NLP and real-world problem solving - Skilled in building ML models and data visualization
+--- 
+## 🛠️ Tech Stack - Python 🐍 - Machine Learning 🤖 - NLP (Natural Language Processing) - Pandas, NumPy - Scikit-learn - Matplotlib, Seaborn 
+--- 
+## 🚀 Featured Projects ### 🔹 AI Resume Screening & Ranking System - NLP-based system to rank resumes using TF-IDF & Cosine Similarity - Helps automate candidate shortlisting
+### 🔹 Fake News Detection System - Classifies news as Fake or Real using ML models - Includes confusion matrix & accuracy analysis
+### 🔹 Data Analysis Dashboard - Visualized large datasets using charts and insights - Identified trends and patterns 
+--- 
+## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical) 
+---
+## 📫 Contact Me - Email: your-ahireabhi753@gmail.com - LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
+--- 
+## ⭐ *Keep Learning, Keep Building!*
 
 <!--
 **abhiahire91/abhiahire91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
