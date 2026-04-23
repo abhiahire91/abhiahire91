@@ -11,6 +11,30 @@ Hi, I'm Abhishek Ahire
 --- 
 ## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical) 
 ---
+🧠 Skills
+💻 Programming Languages
+Python
+SQL
+🤖 Machine Learning & AI
+Machine Learning (Supervised & Unsupervised Learning)
+Scikit-learn
+Pandas & NumPy
+Feature Engineering
+Model Evaluation & Optimization
+Natural Language Processing (NLP)
+📊 Data Visualization & BI Tools
+Power BI (Dashboards, KPIs, Data Storytelling)
+Matplotlib
+Seaborn
+🗄️ Databases
+MySQL / SQLite
+Data Querying & Data Analysis
+🛠️ Tools & Platforms
+Git & GitHub
+Google Colab
+Jupyter Notebook
+Excel (Data Cleaning & Basic Analysis)
+---
 ## 📫 Contact Me - Email: your-ahireabhi753@gmail.com - LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318
 --- 
 ## ⭐ *Keep Learning, Keep Building!*
