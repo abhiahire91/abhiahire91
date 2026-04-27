@@ -1,6 +1,11 @@
+<!-- 🔥 Stylish Name Heading -->
+<h1 align="center" style="font-size:48px; font-weight:800; letter-spacing:1px; color:#e9d5ff; text-shadow:0 0 15px rgba(168,85,247,0.8);">
+  Abhishek Ahire
+</h1>
+
 <!-- 🔥 Modern Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0f172a&height=220&section=header&text=Abhishek%20Ahire&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0f172a&height=220&section=header&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
