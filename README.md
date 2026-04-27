@@ -9,20 +9,44 @@
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Skills Boxes -->
 <p align="center">
 <table align="center">
   <tr>
-    <td align="center">✨ Python</td>
-    <td align="center">🌸 Machine Learning</td>
-    <td align="center">📊 Pandas</td>
-    <td align="center">🔢 NumPy</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>
+      Machine Learning
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>
+      Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>
+      NumPy
+    </td>
   </tr>
+
   <tr>
-    <td align="center">🗄️ SQL</td>
-    <td align="center">📈 Power BI</td>
-    <td align="center">🔧 Git</td>
-    <td align="center">💻 GitHub</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
+      SQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>
+      Power BI
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
+      GitHub
+    </td>
   </tr>
 </table>
 </p>
