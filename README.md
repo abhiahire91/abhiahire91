@@ -1,81 +1,114 @@
-<h1 align="center">Hi, I'm Abhishek Ahire 👋</h1>
+<h1 align="center" style="color:#a855f7; font-size:40px;">Hi, I'm Abhishek Ahire 👋</h1>
 
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center" style="color:gray;">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine Learning-Enthusiast-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power BI-Dashboard-yellow?style=for-the-badge"/>
+</p>
 
-## 💡 About Me
-- 🎯 **Passionate about Data Science, Machine Learning & Artificial Intelligence**
-- 🧠 **Strong interest in NLP, Deep Learning & real-world problem solving**
-- 📊 **Love turning raw data into meaningful insights**
-- 🚀 **Focused on building industry-level ML projects**
-- 🔍 **Always learning new tools & technologies**
+<hr>
 
----
+<h2 style="color:#9333ea;">💡 About Me</h2>
 
-## 🛠️ Tech Stack
+<div style="background:linear-gradient(135deg,#1f1c2c,#928dab); padding:18px; border-radius:12px; color:white;">
 
-### 💻 Programming
-- Python 🐍  
-- SQL  
+🎯 Passionate about <b>Data Science, Machine Learning & AI</b><br><br>
+🧠 Strong interest in <b>NLP, Deep Learning & real-world problem solving</b><br><br>
+📊 Skilled at turning <b>raw data into meaningful insights</b><br><br>
+🚀 Focused on building <b>industry-level ML projects</b><br><br>
+🔍 Continuously learning <b>new tools & technologies</b>
 
-### 🤖 Machine Learning / AI
-- Machine Learning (Supervised & Unsupervised)  
-- Scikit-learn  
-- Pandas & NumPy  
-- NLP (Natural Language Processing)  
-- Feature Engineering  
-- Model Evaluation & Optimization  
+</div>
 
-### 📊 Data Visualization & BI
-- Power BI (Dashboards, KPIs, Storytelling)  
-- Matplotlib  
-- Seaborn  
+<hr>
 
-### 🗄️ Databases
-- MySQL  
-- SQLite  
-- PL/SQL  
+<h2 style="color:#9333ea;">🛠️ Tech Stack</h2>
 
----
+<h3>💻 Programming</h3>
+<div>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Python 🐍</span>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">SQL</span>
+</div>
 
-## 🚀 Featured Projects
+<br>
 
-### 🔹 AI Resume Screening & Ranking System
-- NLP-based system to rank resumes using TF-IDF & Cosine Similarity  
-- Automates candidate shortlisting process  
+<h3>🤖 Machine Learning / AI</h3>
+<div>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Machine Learning</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Scikit-learn</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Pandas</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NumPy</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NLP</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Feature Engineering</span>
+</div>
 
----
+<br>
 
-### 🔹 Fake News Detection System
-- Classifies news as Fake or Real using ML models  
-- Includes accuracy score & confusion matrix analysis  
+<h3>📊 Data Visualization & BI</h3>
+<div>
+  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Power BI</span>
+  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Matplotlib</span>
+  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Seaborn</span>
+</div>
 
----
+<br>
 
-### 🔹 Data Analysis Dashboard
-- Built interactive dashboards using Power BI  
-- Identified business trends, KPIs & insights  
+<h3>🗄️ Databases</h3>
+<div>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">MySQL</span>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">SQLite</span>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">PL/SQL</span>
+</div>
 
----
+<hr>
 
-## 📊 GitHub Stats
+<h2 style="color:#9333ea;">🚀 Featured Projects</h2>
+
+<div style="background:#0f172a; padding:15px; border-radius:12px; color:white;">
+
+<b>🔹 AI Resume Screening & Ranking System</b><br>
+NLP-based system using TF-IDF & Cosine Similarity to automate candidate shortlisting<br><br>
+
+<b>🔹 Fake News Detection System</b><br>
+ML-based classification model with accuracy & confusion matrix analysis<br><br>
+
+<b>🔹 Data Analysis Dashboard</b><br>
+Interactive Power BI dashboards for business insights & KPI tracking
+
+</div>
+
+<hr>
+
+<h2 style="color:#9333ea;">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical" />
 </p>
 
----
+<hr>
 
-## 📫 Connect With Me
+<h2 style="color:#9333ea;">📫 Connect With Me</h2>
 
-- 📧 Email: **ahireabhi753@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-ahire-49bb6a318 
-- 💻 GitHub: https://github.com/abhiahire91  
+<div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#1f1c2c,#9333ea); color:white; width:fit-content;">
 
----
+📧 <b>Email:</b> ahireabhi753@gmail.com <br><br>
 
-## ⭐ Motivation
-<p align="center">
-  <b>“Keep Learning, Keep Building, Keep Growing 🚀”</b>
-</p>
+🔗 <b>LinkedIn:</b><br>
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+Connect with me
+</a>
+
+<br><br>
+
+💻 <b>GitHub:</b><br>
+<a href="https://github.com/abhiahire91" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+Visit Profile
+</a>
+
+</div>
+
+<hr>
+
+<h2 align="center" style="color:#a855f7;">⭐ “Keep Learning, Keep Building, Keep Growing 🚀”</h2>
