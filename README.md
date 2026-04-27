@@ -1,88 +1,99 @@
-<!-- 🌸 Soft Pink Gradient Banner -->
+<!-- 🔥 Modern Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fbc2eb&height=220&section=header&text=Abhishek%20Ahire&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0f172a&height=220&section=header&text=Abhishek%20Ahire&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center" style="color:#f472b6;">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-<!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=9333ea&style=for-the-badge" />
 </p>
 
-<!-- 🌸 Soft Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+<hr>
 
----
+<h2 style="color:#9333ea;">About Me</h2>
 
-## 💡 About Me
+<div style="background:linear-gradient(135deg,#0f172a,#1e293b); padding:20px; border-radius:12px; color:white; line-height:1.6;">
 
-<div style="background:linear-gradient(135deg,#1e1b2e,#2a1f3d); padding:20px; border-radius:15px; color:#fbcfe8; box-shadow:0 0 20px rgba(255,105,180,0.2);">
-
-✨ Passionate about <b>Data Science, Machine Learning & AI</b><br><br>
-🧠 Exploring <b>NLP, Deep Learning & real-world problems</b><br><br>
-📊 Turning <b>data into insights & decisions</b><br><br>
-🚀 Building <b>impactful ML projects</b><br><br>
-🌱 Always learning & growing
+Passionate about Data Science, Machine Learning and Artificial Intelligence.<br><br>
+Strong interest in Natural Language Processing and real-world problem solving.<br><br>
+Skilled in Data Analysis, Visualization and Predictive Modeling.<br><br>
+Focused on building industry-level projects with real-world impact.<br><br>
+Continuously learning and exploring new tools and technologies.
 
 </div>
 
----
+<hr>
 
-## 🛠️ Tech Stack
+<h2 style="color:#9333ea;">Tech Stack</h2>
 
-<h3 style="color:#f472b6;">💻 Programming</h3>
+<h3>Programming</h3>
 <div>
-  <span style="background:#ff9a9e; padding:8px 14px; border-radius:10px;">🐍 Python</span>
-  <span style="background:#fbc2eb; padding:8px 14px; border-radius:10px;">🗄️ SQL</span>
+  <span style="background:#9333ea; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Python</span>
+  <span style="background:#7c3aed; color:white; padding:10px 16px; border-radius:10px; margin:5px;">SQL</span>
 </div>
 
 <br>
 
-<h3 style="color:#f472b6;">🤖 Machine Learning</h3>
+<h3>Machine Learning</h3>
 <div>
-  <span style="background:#fda4af; padding:8px 14px; border-radius:10px;">ML</span>
-  <span style="background:#fb7185; padding:8px 14px; border-radius:10px;">Scikit-learn</span>
-  <span style="background:#f472b6; padding:8px 14px; border-radius:10px;">Pandas</span>
-  <span style="background:#ec4899; padding:8px 14px; border-radius:10px;">NumPy</span>
-  <span style="background:#db2777; padding:8px 14px; border-radius:10px;">NLP</span>
+  <span style="background:#0ea5e9; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Machine Learning</span>
+  <span style="background:#0284c7; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Scikit-learn</span>
+  <span style="background:#0369a1; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Pandas</span>
+  <span style="background:#075985; color:white; padding:10px 16px; border-radius:10px; margin:5px;">NumPy</span>
+  <span style="background:#0f766e; color:white; padding:10px 16px; border-radius:10px; margin:5px;">NLP</span>
+  <span style="background:#134e4a; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Feature Engineering</span>
 </div>
 
 <br>
 
-<h3 style="color:#f472b6;">📊 Visualization</h3>
+<h3>Data Visualization</h3>
 <div>
-  <span style="background:#f9a8d4; padding:8px 14px; border-radius:10px;">Power BI</span>
-  <span style="background:#f472b6; padding:8px 14px; border-radius:10px;">Matplotlib</span>
-  <span style="background:#ec4899; padding:8px 14px; border-radius:10px;">Seaborn</span>
+  <span style="background:#f59e0b; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Power BI</span>
+  <span style="background:#d97706; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Matplotlib</span>
+  <span style="background:#b45309; color:white; padding:10px 16px; border-radius:10px; margin:5px;">Seaborn</span>
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
-
-<div style="display:flex; flex-direction:column; gap:15px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:15px; border-radius:12px; box-shadow:0 0 15px rgba(255,105,180,0.15);">
-<b>🔹 AI Resume Screening System</b><br>
-<span style="color:#fbcfe8;">NLP-based resume ranking using TF-IDF & Cosine Similarity</span>
+<h3>Databases</h3>
+<div>
+  <span style="background:#22c55e; color:white; padding:10px 16px; border-radius:10px; margin:5px;">MySQL</span>
+  <span style="background:#16a34a; color:white; padding:10px 16px; border-radius:10px; margin:5px;">SQLite</span>
+  <span style="background:#15803d; color:white; padding:10px 16px; border-radius:10px; margin:5px;">PL/SQL</span>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:15px; border-radius:12px; box-shadow:0 0 15px rgba(255,105,180,0.15);">
-<b>🔹 Customer Churn Prediction</b><br>
-<span style="color:#fbcfe8;">ML model to predict churn & improve retention</span>
+<hr>
+
+<h2 style="color:#9333ea;">Featured Projects</h2>
+
+<div style="background:#020617; padding:20px; border-radius:12px; color:white; line-height:1.7;">
+
+<b>AI Resume Screening & Candidate Ranking System</b><br>
+Developed an NLP-based system to automate resume shortlisting using job description matching.<br>
+• TF-IDF Vectorization for feature extraction<br>
+• Cosine Similarity for ranking candidates<br>
+• Text preprocessing and cleaning<br>
+• Improved hiring efficiency<br><br>
+
+<b>Customer Churn Prediction</b><br>
+Built machine learning models to predict customer churn and support business decisions.<br>
+• Classification algorithms implementation<br>
+• Feature engineering and EDA<br>
+• Model evaluation metrics<br>
+• Actionable business insights<br><br>
+
+<b>Retail Sales Dashboard (Power BI)</b><br>
+Created interactive dashboards for sales performance analysis.<br>
+• KPI tracking dashboards<br>
+• Data transformation and cleaning<br>
+• Interactive filters and drill-down analysis<br>
+
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:15px; border-radius:12px; box-shadow:0 0 15px rgba(255,105,180,0.15);">
-<b>🔹 Retail Sales Dashboard</b><br>
-<span style="color:#fbcfe8;">Power BI dashboard for business insights</span>
-</div>
+<hr>
 
-</div>
-
----
-
-## 📊 GitHub Stats
+<h2 style="color:#9333ea;">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical" />
@@ -90,33 +101,33 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiahire91&theme=radical" />
 </p>
 
----
+<hr>
 
-## 📫 Connect With Me
+<h2 style="color:#9333ea;">Connect With Me</h2>
 
-<div style="background:linear-gradient(135deg,#ff9a9e,#fbc2eb); padding:20px; border-radius:15px; text-align:center;">
+<div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#0f172a,#9333ea); color:white; width:fit-content;">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank" 
-style="background:white; padding:10px 18px; border-radius:10px; color:#ec4899; text-decoration:none; font-weight:bold;">
-📧 Email Me
+Email:<br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank" style="color:#00e6ff;">
+Send Email
 </a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" 
-style="background:white; padding:10px 18px; border-radius:10px; color:#0ea5e9; text-decoration:none;">
-🔗 LinkedIn
+LinkedIn:<br>
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff;">
+Connect
 </a>
 
 <br><br>
 
-<a href="https://github.com/abhiahire91" target="_blank" 
-style="background:black; padding:10px 18px; border-radius:10px; color:white; text-decoration:none;">
-💻 GitHub
+GitHub:<br>
+<a href="https://github.com/abhiahire91" target="_blank" style="color:#00e6ff;">
+Visit Profile
 </a>
 
 </div>
 
----
+<hr>
 
-<h2 align="center" style="color:#f472b6;">✨ Turning Data into Beautiful Insights ✨</h2>
+<h2 align="center" style="color:#9333ea;">Turning Data into Insights</h2>
