@@ -3,6 +3,14 @@
 <h3 align="center" style="color:gray;">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Progress;Machine+Learning+Enthusiast;Power+BI+Developer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=9333ea&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine Learning-Enthusiast-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power BI-Dashboard-yellow?style=for-the-badge"/>
@@ -69,13 +77,13 @@
 <div style="background:#0f172a; padding:15px; border-radius:12px; color:white;">
 
 <b>🔹 AI Resume Screening & Ranking System</b><br>
-NLP-based system using TF-IDF & Cosine Similarity to automate candidate shortlisting<br><br>
+NLP-based system using TF-IDF & Cosine Similarity<br><br>
 
 <b>🔹 Customer Churn Prediction</b><br>
-Machine Learning model to predict customer churn using classification algorithms, feature engineering, and model evaluation techniques<br><br>
+ML model using classification algorithms<br><br>
 
 <b>🔹 Data Analysis Dashboard</b><br>
-Interactive Power BI dashboards for business insights & KPI tracking
+Interactive Power BI dashboards
 
 </div>
 
@@ -84,7 +92,11 @@ Interactive Power BI dashboards for business insights & KPI tracking
 <h2 style="color:#9333ea;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiahire91&theme=radical&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiahire91&layout=compact&theme=radical" />
 </p>
 
 <hr>
@@ -94,9 +106,11 @@ Interactive Power BI dashboards for business insights & KPI tracking
 <div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#1f1c2c,#9333ea); color:white; width:fit-content;">
 
 📧 <b>Email:</b><br>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
 Send Email
 </a>
+
+<br><br>
 
 🔗 <b>LinkedIn:</b><br>
 <a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
@@ -111,6 +125,7 @@ Visit Profile
 </a>
 
 </div>
+
 <hr>
 
-<h2 align="center" style="color:#a855f7;">⭐ “If you like my work, consider giving a star ⭐”</h2>
+<h2 align="center" style="color:#a855f7;">⭐ If you like my work, consider giving a star ⭐</h2>
