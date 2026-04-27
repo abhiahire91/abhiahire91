@@ -93,7 +93,10 @@ Interactive Power BI dashboards for business insights & KPI tracking
 
 <div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#1f1c2c,#9333ea); color:white; width:fit-content;">
 
-📧 Email: [abhiahire9191@gmail.com](mailto:abhiahire9191@gmail.com)
+📧 <b>Email:</b><br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank">
+Send Email
+</a>
 
 🔗 <b>LinkedIn:</b><br>
 <a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
