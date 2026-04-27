@@ -1,61 +1,22 @@
+<!-- 🔥 Stylish Name Heading -->
+<h1 align="center" style="font-size:48px; font-weight:800; letter-spacing:1px; color:#e9d5ff; text-shadow:0 0 15px rgba(168,85,247,0.8);">
+  Abhishek Ahire
+</h1>
+
 <!-- 🔥 Modern Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=220&section=header&text=Abhishek%20Ahire&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0f172a&height=220&section=header&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=9333ea&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Stylish Split Boxes -->
+<!-- 🔥 Skills Icons -->
 <p align="center">
-
-<table cellspacing="10">
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">SKILL</td>
-<td bgcolor="#eab308" style="color:black; padding:10px 20px;"><b>Python</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">DOMAIN</td>
-<td bgcolor="#f9a8d4" style="color:black; padding:10px 20px;"><b>Machine Learning</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">LIBRARY</td>
-<td bgcolor="#60a5fa" style="color:black; padding:10px 20px;"><b>Pandas</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">LIBRARY</td>
-<td bgcolor="#a78bfa" style="color:white; padding:10px 20px;"><b>NumPy</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">DATABASE</td>
-<td bgcolor="#4ade80" style="color:black; padding:10px 20px;"><b>SQL</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">TOOL</td>
-<td bgcolor="#38bdf8" style="color:black; padding:10px 20px;"><b>Power BI</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">VERSION</td>
-<td bgcolor="#f87171" style="color:white; padding:10px 20px;"><b>Git</b></td>
-</tr>
-
-<tr>
-<td bgcolor="#3f3f46" style="color:white; padding:10px 20px;">PLATFORM</td>
-<td bgcolor="#818cf8" style="color:white; padding:10px 20px;"><b>GitHub</b></td>
-</tr>
-
-</table>
-
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,mysql,git,github" />
 </p>
 
 <hr>
@@ -109,13 +70,24 @@
 <div style="background:#020617; padding:20px; border-radius:12px; color:white; line-height:1.7;">
 
 <b>🔹 AI Resume Screening & Candidate Ranking System</b><br>
-Built an NLP-powered system using TF-IDF & Cosine Similarity.<br><br>
+Built an NLP-powered system to automate resume shortlisting using job description matching.<br>
+✔️ TF-IDF Vectorization for feature extraction<br>
+✔️ Cosine Similarity for ranking candidates<br>
+✔️ Text preprocessing (cleaning, stopword removal)<br>
+✔️ Reduced manual hiring effort<br><br>
 
 <b>🔹 Customer Churn Prediction</b><br>
-ML model to predict churn and improve retention.<br><br>
+Developed ML models to predict customer churn and improve retention strategies.<br>
+✔️ Classification algorithms implementation<br>
+✔️ EDA & feature engineering<br>
+✔️ Model evaluation (accuracy, precision, recall)<br>
+✔️ Business insight generation<br><br>
 
 <b>🔹 Retail Sales Dashboard (Power BI)</b><br>
-Interactive dashboard for business insights.<br>
+Created interactive dashboards for analyzing sales performance.<br>
+✔️ KPI tracking dashboards<br>
+✔️ Data cleaning & transformation<br>
+✔️ Interactive filters & drill-down analysis<br>
 
 </div>
 
@@ -127,19 +99,34 @@ Interactive dashboard for business insights.<br>
   <img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=radical&border_radius=10" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiahire91&theme=radical&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiahire91&layout=compact&theme=radical" />
 </p>
 
 <hr>
 
 <h2 style="color:#9333ea;">📫 Connect With Me</h2>
 
-<div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#0f172a,#9333ea); color:white;">
+<div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#0f172a,#9333ea); color:white; width:fit-content;">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank" style="color:#00e6ff;">📧 Send Email</a><br><br>
+📧 <b>Email:</b><br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiahire9191@gmail.com" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+Send Email
+</a>
 
-<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff;">🔗 LinkedIn</a><br><br>
+<br><br>
 
-<a href="https://github.com/abhiahire91" target="_blank" style="color:#00e6ff;">💻 GitHub</a>
+🔗 <b>LinkedIn:</b><br>
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff;">
+Connect with me
+</a>
+
+<br><br>
+
+💻 <b>GitHub:</b><br>
+<a href="https://github.com/abhiahire91" target="_blank" style="color:#00e6ff;">
+Visit Profile
+</a>
 
 </div>
 
