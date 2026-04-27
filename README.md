@@ -94,26 +94,25 @@ Interactive Power BI dashboards for business insights & KPI tracking
 <div style="border:1px solid #9333ea; border-radius:15px; padding:20px; background:linear-gradient(135deg,#1f1c2c,#9333ea); color:white; width:fit-content;">
 
 📧 <b>Email:</b><br>
-<a href="mailto:abhiahire9191@gmail.com" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
-abhiahire9191@gmail.com
+<a href="mailto:abhiahire9191@gmail.com" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+Click to Email Me
 </a>
 
 <br><br>
 
 🔗 <b>LinkedIn:</b><br>
-<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
 Connect with me
 </a>
 
 <br><br>
 
 💻 <b>GitHub:</b><br>
-<a href="https://github.com/abhiahire91" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
+<a href="https://github.com/abhiahire91" target="_blank" style="color:#00e6ff; text-decoration:none; font-weight:bold;">
 Visit Profile
 </a>
 
 </div>
-
 <hr>
 
 <h2 align="center" style="color:#a855f7;">⭐ “If you like my work, consider giving a star ⭐”</h2>
