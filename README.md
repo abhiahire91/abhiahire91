@@ -9,37 +9,22 @@
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Skills in Light Color Boxes -->
+<!-- 🔥 Skills Boxes (GitHub Supported) -->
 <p align="center">
-
-  <span style="background:#ede9fe; color:#5b21b6; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    Python
-  </span>
-
-  <span style="background:#fce7f3; color:#be185d; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    Machine Learning
-  </span>
-
-  <span style="background:#e0f2fe; color:#0369a1; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    Pandas
-  </span>
-
-  <span style="background:#dcfce7; color:#166534; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    NumPy
-  </span>
-
-  <span style="background:#fef9c3; color:#854d0e; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    SQL
-  </span>
-
-  <span style="background:#fae8ff; color:#a21caf; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    Power BI
-  </span>
-
-  <span style="background:#e2e8f0; color:#1e293b; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
-    Git & GitHub
-  </span>
-
+<table align="center">
+  <tr>
+    <td align="center">✨ Python</td>
+    <td align="center">🌸 Machine Learning</td>
+    <td align="center">📊 Pandas</td>
+    <td align="center">🔢 NumPy</td>
+  </tr>
+  <tr>
+    <td align="center">🗄️ SQL</td>
+    <td align="center">📈 Power BI</td>
+    <td align="center">🔧 Git</td>
+    <td align="center">💻 GitHub</td>
+  </tr>
+</table>
 </p>
 
 <hr>
