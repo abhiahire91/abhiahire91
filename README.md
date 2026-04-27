@@ -74,16 +74,28 @@
 
 <h2 style="color:#9333ea;">🚀 Featured Projects</h2>
 
-<div style="background:#0f172a; padding:15px; border-radius:12px; color:white;">
+<div style="background:#0f172a; padding:20px; border-radius:12px; color:white; line-height:1.6;">
 
-<b>🔹 AI Resume Screening & Ranking System</b><br>
-NLP-based system using TF-IDF & Cosine Similarity<br><br>
+<b>🔹 AI Resume Screening & Candidate Ranking System</b><br>
+Developed an NLP-based system to automate resume shortlisting by matching resumes with job descriptions.<br>
+✔️ Applied <b>TF-IDF Vectorization</b> for feature extraction<br>
+✔️ Used <b>Cosine Similarity</b> for ranking candidates<br>
+✔️ Performed <b>text preprocessing</b> (cleaning, stopword removal, tokenization)<br>
+✔️ Reduced manual screening effort and improved efficiency<br><br>
 
-<b>🔹 Customer Churn Prediction</b><br>
-ML model using classification algorithms<br><br>
+<b>🔹 Customer Churn Prediction System</b><br>
+Built a machine learning model to predict customer churn and support retention strategies.<br>
+✔️ Implemented <b>classification algorithms</b> (Logistic Regression, Decision Tree)<br>
+✔️ Performed <b>EDA & feature engineering</b><br>
+✔️ Evaluated model using <b>accuracy, precision, recall</b><br>
+✔️ Generated actionable business insights<br><br>
 
-<b>🔹 Data Analysis Dashboard</b><br>
-Interactive Power BI dashboards
+<b>🔹 Retail Sales Data Analysis Dashboard (Power BI)</b><br>
+Created an interactive dashboard to analyze sales performance and business trends.<br>
+✔️ Built dynamic <b>KPI dashboards</b><br>
+✔️ Performed <b>data cleaning & transformation</b><br>
+✔️ Enabled <b>interactive filters & drill-down analysis</b><br>
+✔️ Identified top-performing products and regions<br>
 
 </div>
 
