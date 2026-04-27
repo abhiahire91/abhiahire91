@@ -9,20 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Skills Boxes (GitHub Supported) -->
+<!-- 🔥 Skills Boxes -->
 <p align="center">
 <table align="center">
   <tr>
-    <td align="center">✨ Python</td>
-    <td align="center">🌸 Machine Learning</td>
-    <td align="center">📊 Pandas</td>
-    <td align="center">🔢 NumPy</td>
+    <td align="center"><b>Python</b></td>
+    <td align="center"><b>Machine Learning</b></td>
+    <td align="center"><b>Pandas</b></td>
+    <td align="center"><b>NumPy</b></td>
   </tr>
   <tr>
-    <td align="center">🗄️ SQL</td>
-    <td align="center">📈 Power BI</td>
-    <td align="center">🔧 Git</td>
-    <td align="center">💻 GitHub</td>
+    <td align="center"><b>SQL</b></td>
+    <td align="center"><b>Power BI</b></td>
+    <td align="center"><b>Git</b></td>
+    <td align="center"><b>GitHub</b></td>
   </tr>
 </table>
 </p>
@@ -47,28 +47,28 @@
 
 <h3>💻 Programming</h3>
 <div>
-  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Python 🐍</span>
-  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">SQL</span>
+  <span style="background:#111827; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Python</span>
+  <span style="background:#111827; color:#e5e7eb; padding:8px 14px; border-radius:6px;">SQL</span>
 </div>
 
 <br>
 
 <h3>🤖 Machine Learning</h3>
 <div>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Scikit-learn</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Pandas</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NumPy</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NLP</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Feature Engineering</span>
+  <span style="background:#0f172a; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Scikit-learn</span>
+  <span style="background:#0f172a; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Pandas</span>
+  <span style="background:#0f172a; color:#e5e7eb; padding:8px 14px; border-radius:6px;">NumPy</span>
+  <span style="background:#0f172a; color:#e5e7eb; padding:8px 14px; border-radius:6px;">NLP</span>
+  <span style="background:#0f172a; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Feature Engineering</span>
 </div>
 
 <br>
 
 <h3>📊 Data Visualization</h3>
 <div>
-  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Power BI</span>
-  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Matplotlib</span>
-  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Seaborn</span>
+  <span style="background:#1e293b; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Power BI</span>
+  <span style="background:#1e293b; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Matplotlib</span>
+  <span style="background:#1e293b; color:#e5e7eb; padding:8px 14px; border-radius:6px;">Seaborn</span>
 </div>
 
 <hr>
