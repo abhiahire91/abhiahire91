@@ -1,4 +1,4 @@
-<!-- 🔥 Modern Wave Banner (UPDATED STYLE) -->
+<!-- 🔥 Modern Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=220&section=header&text=Abhishek%20Ahire&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descAlignY=55&descSize=18&animation=fadeIn" />
 </p>
@@ -6,12 +6,40 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=9333ea&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Skills Icons -->
+<!-- 🔥 Skills in Light Color Boxes -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,mysql,git,github" />
+
+  <span style="background:#ede9fe; color:#5b21b6; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    Python
+  </span>
+
+  <span style="background:#fce7f3; color:#be185d; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    Machine Learning
+  </span>
+
+  <span style="background:#e0f2fe; color:#0369a1; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    Pandas
+  </span>
+
+  <span style="background:#dcfce7; color:#166534; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    NumPy
+  </span>
+
+  <span style="background:#fef9c3; color:#854d0e; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    SQL
+  </span>
+
+  <span style="background:#fae8ff; color:#a21caf; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    Power BI
+  </span>
+
+  <span style="background:#e2e8f0; color:#1e293b; padding:10px 16px; border-radius:12px; margin:6px; display:inline-block; font-weight:500;">
+    Git & GitHub
+  </span>
+
 </p>
 
 <hr>
