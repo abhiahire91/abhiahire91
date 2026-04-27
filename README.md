@@ -3,7 +3,13 @@
 <h3 align="center" style="color:gray;">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Progress;Machine+Learning+Enthusiast;Power+BI+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Progress" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=33FF57&size=25&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=3399FF&size=25&center=true&vCenter=true&width=500&lines=Power+BI+Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=25&center=true&vCenter=true&width=500&lines=Always+Learning+New+Things" />
 </p>
 
 <p align="center">
