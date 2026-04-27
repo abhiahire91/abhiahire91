@@ -1,10 +1,8 @@
-<h1 align="center" style="color:#a855f7; font-size:40px;">Hi, I'm Abhishek Ahire 👋</h1>
+<h1 align="center" style="color:#f9a8d4; font-size:42px; font-weight:800; letter-spacing:1px;">
+  Hi, I'm Abhishek Ahire 👋
+</h1>
 
 <h3 align="center" style="color:gray;">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Progress;Machine+Learning+Enthusiast;Power+BI+Developer;Always+Learning+New+Things" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=9333ea&style=for-the-badge" />
