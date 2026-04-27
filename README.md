@@ -140,4 +140,6 @@ Visit Profile
 
 <hr>
 
-<h2 align="center" style="color:#a855f7;">⭐ Turning Data into Insights 🚀</h2>
+<h2 align="center" style="color:#a855f7;">
+🚀 Transforming Data into Intelligent Solutions | Driven by Curiosity, Powered by Machine Learning, Focused on Real-World Impact
+</h2>
