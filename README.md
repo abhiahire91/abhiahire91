@@ -71,8 +71,8 @@
 <b>🔹 AI Resume Screening & Ranking System</b><br>
 NLP-based system using TF-IDF & Cosine Similarity to automate candidate shortlisting<br><br>
 
-<b>🔹 Fake News Detection System</b><br>
-ML-based classification model with accuracy & confusion matrix analysis<br><br>
+<b>🔹 Customer Churn Prediction</b><br>
+Machine Learning model to predict customer churn using classification algorithms, feature engineering, and model evaluation techniques<br><br>
 
 <b>🔹 Data Analysis Dashboard</b><br>
 Interactive Power BI dashboards for business insights & KPI tracking
