@@ -9,20 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- 🔥 Skills Boxes (GitHub Supported) -->
+<!-- 🔥 Colored Skill Boxes -->
 <p align="center">
-<table align="center">
+<table align="center" cellspacing="8">
   <tr>
-    <td align="center">✨ Python</td>
-    <td align="center">🌸 Machine Learning</td>
-    <td align="center">📊 Pandas</td>
-    <td align="center">🔢 NumPy</td>
+    <td align="center" bgcolor="#ef4444"><b style="color:white;">Python</b></td>
+    <td align="center" bgcolor="#eab308"><b style="color:black;">Machine Learning</b></td>
+    <td align="center" bgcolor="#8b5cf6"><b style="color:white;">Pandas</b></td>
+    <td align="center" bgcolor="#ec4899"><b style="color:white;">NumPy</b></td>
   </tr>
   <tr>
-    <td align="center">🗄️ SQL</td>
-    <td align="center">📈 Power BI</td>
-    <td align="center">🔧 Git</td>
-    <td align="center">💻 GitHub</td>
+    <td align="center" bgcolor="#22c55e"><b style="color:white;">SQL</b></td>
+    <td align="center" bgcolor="#06b6d4"><b style="color:white;">Power BI</b></td>
+    <td align="center" bgcolor="#f97316"><b style="color:white;">Git</b></td>
+    <td align="center" bgcolor="#6366f1"><b style="color:white;">GitHub</b></td>
   </tr>
 </table>
 </p>
