@@ -141,5 +141,8 @@ Visit Profile
 <hr>
 
 <h2 align="center" style="color:#a855f7;">
-🚀 Transforming Data into Intelligent Solutions | Driven by Curiosity, Powered by Machine Learning, Focused on Real-World Impact
+✨🚀 Transforming Data into Intelligent Solutions 🚀✨<br>
+━━━━━━━━━━━━━━━━━━━━━━<br>
+🧠 Driven by Curiosity | 🤖 Powered by Machine Learning | 🌍 Focused on Real-World Impact<br>
+━━━━━━━━━━━━━━━━━━━━━━
 </h2>
