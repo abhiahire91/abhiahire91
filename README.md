@@ -57,11 +57,17 @@
 
 <div style="background:linear-gradient(135deg,#0f172a,#1e293b); padding:18px; border-radius:12px; color:white;">
 
-🎯 Passionate about <b>Data Science, Machine Learning & AI</b><br><br>
-🧠 Strong interest in <b>NLP, Deep Learning & real-world problem solving</b><br><br>
-📊 Skilled in <b>Data Analysis, Visualization & Predictive Modeling</b><br><br>
-🚀 Building <b>industry-level ML projects</b> with real-world impact<br><br>
-🔍 Always learning and exploring <b>new technologies</b>
+🎯 Passionate about <b>Data Analysis, Business Intelligence & Data-Driven Decision Making</b><br><br>
+
+📊 Skilled in <b>Data Cleaning, Data Wrangling, EDA & Dashboard Development</b> using tools like <b>Python, SQL, Power BI & Excel</b><br><br>
+
+📈 Strong ability to <b>transform raw data into actionable insights</b> that drive business growth and performance<br><br>
+
+🧠 Experienced in <b>statistical analysis, trend identification & data storytelling</b> for effective decision-making<br><br>
+
+🚀 Focused on building <b>real-world data analytics projects</b> and delivering impactful, insight-driven solutions<br><br>
+
+🔍 Continuously learning and exploring <b>advanced analytics techniques & modern data tools</b>
 
 </div>
 
