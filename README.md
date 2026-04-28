@@ -1,14 +1,15 @@
 <!-- 🔥 Modern Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=220&section=header&text=Abhishek%20Ahire&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=220&section=header&text=Abhishek%20Ahire&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18&animation=fadeIn" />
 </p>
 
-<h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Actionable Insights | SQL • Python • Power BI</h3>
+<h3 align="center">📊 Data Analyst | Turning Data into Business Insights | SQL • Python • Power BI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
+<!-- Tech Icons -->
 <p align="center">
 <table align="center">
   <tr>
@@ -16,21 +17,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
       Python
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>
-      Machine Learning
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>
-      Pandas
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>
-      NumPy
-    </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
       SQL
@@ -42,6 +28,21 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
       Git
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>
+      Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>
+      NumPy
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>
+      ML (Basic)
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
@@ -59,46 +60,57 @@
 
 🎯 Passionate about <b>Data Analysis, Business Intelligence & Data-Driven Decision Making</b><br><br>
 
-📊 Skilled in <b>Data Cleaning, Data Wrangling, EDA & Dashboard Development</b> using tools like <b>Python, SQL, Power BI & Excel</b><br><br>
+📊 Skilled in <b>Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA) & Dashboard Development</b> using <b>Python, SQL, Power BI & Excel</b><br><br>
 
-📈 Strong ability to <b>transform raw data into actionable insights</b> that drive business growth and performance<br><br>
+📈 Strong ability to <b>analyze data, identify trends & deliver actionable insights</b> that support business growth<br><br>
 
-🧠 Experienced in <b>statistical analysis, trend identification & data storytelling</b> for effective decision-making<br><br>
+🧠 Experienced in <b>statistical analysis, data storytelling & KPI tracking</b> for effective decision-making<br><br>
 
-🚀 Focused on building <b>real-world data analytics projects</b> and delivering impactful, insight-driven solutions<br><br>
+🤖 Hands-on knowledge of <b>Machine Learning techniques</b> for predictive insights (classification, feature engineering, model evaluation)<br><br>
 
-🔍 Continuously learning and exploring <b>advanced analytics techniques & modern data tools</b>
+🚀 Focused on building <b>real-world analytics projects</b> and solving business problems using data<br><br>
+
+🔍 Continuously improving skills in <b>advanced analytics, SQL optimization & visualization tools</b>
 
 </div>
 
 <hr>
 
-<h2 style="color:#9333ea;">🛠️ Tech Stack</h2>
+<h2 style="color:#9333ea;">🛠️ Core Skills</h2>
 
-<h3>💻 Programming</h3>
+<h3>📊 Data Analysis</h3>
 <div>
-  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Python 🐍</span>
-  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">SQL</span>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Data Cleaning</span>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">EDA</span>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Data Wrangling</span>
+  <span style="background:#111827; color:white; padding:8px 12px; border-radius:8px;">Statistical Analysis</span>
 </div>
 
 <br>
 
-<h3>🤖 Machine Learning</h3>
-<div>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Scikit-learn</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Pandas</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NumPy</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">NLP</span>
-  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Feature Engineering</span>
-</div>
-
-<br>
-
-<h3>📊 Data Visualization</h3>
+<h3>📈 Visualization & BI</h3>
 <div>
   <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Power BI</span>
-  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Matplotlib</span>
-  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Seaborn</span>
+  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">Dashboarding</span>
+  <span style="background:#1e293b; color:white; padding:8px 12px; border-radius:8px;">KPI Tracking</span>
+</div>
+
+<br>
+
+<h3>💻 Tools & Technologies</h3>
+<div>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Python (Pandas, NumPy)</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">SQL</span>
+  <span style="background:#0f172a; color:white; padding:8px 12px; border-radius:8px;">Excel (Advanced)</span>
+</div>
+
+<br>
+
+<h3>🤖 Machine Learning (Bonus Skill)</h3>
+<div>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">Classification Models</span>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">Feature Engineering</span>
+  <span style="background:#020617; color:white; padding:8px 12px; border-radius:8px;">Model Evaluation</span>
 </div>
 
 <hr>
@@ -107,25 +119,23 @@
 
 <div style="background:#020617; padding:20px; border-radius:12px; color:white; line-height:1.7;">
 
-<b>🔹 AI Resume Screening & Candidate Ranking System</b><br>
-Built an NLP-powered system to automate resume shortlisting using job description matching.<br>
-✔️ TF-IDF Vectorization for feature extraction<br>
-✔️ Cosine Similarity for ranking candidates<br>
-✔️ Text preprocessing (cleaning, stopword removal)<br>
-✔️ Reduced manual hiring effort<br><br>
+<b>🔹 AI Resume Screening & Candidate Analysis</b><br>
+Analyzed and ranked resumes using NLP techniques to support hiring decisions.<br>
+✔️ Data preprocessing & text analysis<br>
+✔️ Candidate ranking using similarity metrics<br>
+✔️ Insight generation for recruitment efficiency<br><br>
 
-<b>🔹 Customer Churn Prediction</b><br>
-Developed ML models to predict customer churn and improve retention strategies.<br>
-✔️ Classification algorithms implementation<br>
-✔️ EDA & feature engineering<br>
-✔️ Model evaluation (accuracy, precision, recall)<br>
-✔️ Business insight generation<br><br>
+<b>🔹 Customer Churn Analysis</b><br>
+Performed end-to-end data analysis to identify factors affecting customer churn.<br>
+✔️ Data cleaning & EDA<br>
+✔️ Trend analysis & key driver identification<br>
+✔️ Business insights for retention strategies<br><br>
 
 <b>🔹 Retail Sales Dashboard (Power BI)</b><br>
-Created interactive dashboards for analyzing sales performance.<br>
-✔️ KPI tracking dashboards<br>
-✔️ Data cleaning & transformation<br>
-✔️ Interactive filters & drill-down analysis<br>
+Built interactive dashboards to monitor and analyze sales performance.<br>
+✔️ KPI dashboards & reporting<br>
+✔️ Data transformation using Power Query<br>
+✔️ Interactive filtering & drill-down insights<br>
 
 </div>
 
@@ -171,8 +181,8 @@ Visit Profile
 <hr>
 
 <h2 align="center" style="color:#a855f7;">
-✨🚀 Transforming Data into Intelligent Solutions 🚀✨<br>
+✨📊 Data to Decisions | Insights to Impact 🚀✨<br>
 ━━━━━━━━━━━━━━━━━━━━━━<br>
-🧠 Driven by Curiosity | 🤖 Powered by Machine Learning | 🌍 Focused on Real-World Impact<br>
+📈 Data Analyst Mindset | 🧠 Analytical Thinking | 🌍 Business Impact Focus<br>
 ━━━━━━━━━━━━━━━━━━━━━━
 </h2>
