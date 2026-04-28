@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=220&section=header&text=Abhishek%20Ahire&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descAlignY=55&descSize=18&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Actionable Insights | SQL • Python • Power BI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiahire91&label=Profile%20views&color=ff69b4&style=for-the-badge" />
