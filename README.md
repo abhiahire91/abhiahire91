@@ -1,89 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Abhishek Ahire</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-
-<style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins,sans-serif}
-body{
-background:#0a0a0a;
-color:#fff;
-display:flex;
-justify-content:center;
-align-items:center;
-height:100vh;
-}
-.card{
-width:360px;
-background:#111;
-padding:30px;
-border-radius:20px;
-text-align:center;
-box-shadow:0 0 30px #00e5ff55;
-transition:.4s;
-}
-.card:hover{
-transform:translateY(-10px) scale(1.03);
-box-shadow:0 0 40px cyan;
-}
-img{
-width:150px;
-height:150px;
-border-radius:50%;
-border:4px solid cyan;
-box-shadow:0 0 25px cyan;
-}
-h1{
-margin:20px 0 5px;
-font-size:32px;
-background:linear-gradient(90deg,cyan,#00ff88);
--webkit-background-clip:text;
--webkit-text-fill-color:transparent;
-}
-h3{color:#bbb;margin-bottom:15px}
-p{color:#ddd;font-size:15px;line-height:1.6}
-.btn{
-display:inline-block;
-margin-top:20px;
-padding:12px 30px;
-background:cyan;
-color:#000;
-font-weight:bold;
-border-radius:30px;
-text-decoration:none;
-transition:.3s;
-}
-.btn:hover{
-background:#00ff88;
-}
-</style>
-</head>
-
-<body>
-
-<div class="card">
-
-<img src="profile.jpg">
-
-<h1>Abhishek Ahire</h1>
-
-<h3>Data Analyst</h3>
-
-<p>
-SQL • Python • Power BI • Excel • Machine Learning
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Abhishek%20Ahire&fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20|%20Business%20Intelligence&descSize=18&animation=fadeIn"/>
 </p>
 
-<p style="margin-top:15px;">
-Turning Data Into Business Insights.
+<h2 align="center">📊 Data Analyst | SQL • Python • Power BI</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiahire91&style=for-the-badge&color=blueviolet"/>
 </p>
 
-<a class="btn" href="https://github.com/abhiahire91">GitHub</a>
+---
+
+## 💡 About Me
+
+<div style="background:#111827;padding:18px;border-radius:12px;color:white;">
+
+✔️ Passionate Data Analyst with strong analytical thinking.<br><br>
+
+✔️ Skilled in <b>SQL, Python, Power BI & Excel</b>.<br><br>
+
+✔️ Experienced in <b>Data Cleaning, EDA, Dashboard Development</b>.<br><br>
+
+✔️ Basic knowledge of <b>Machine Learning</b> and predictive analytics.
 
 </div>
 
-</body>
-</html>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/><br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+<div style="background:#1e293b;padding:16px;border-radius:10px;color:white;">
+
+📌 AI Resume Screening<br>
+📌 Customer Churn Analysis<br>
+📌 Retail Sales Dashboard (Power BI)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=tokyonight"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiahire91&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="mailto:abhiahire9191@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhiahire91">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Turning Data into Actionable Insights 🚀
+</h3>
