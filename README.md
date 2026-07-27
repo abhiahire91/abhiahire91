@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Abhishek%20Ahire &fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20|%20Business%20Intelligence&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Abhishek%20Ahire&fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20|%20Business%20Intelligence&descSize=18&animation=fadeIn"/>
 </p>
 
 <h2 align="center">📊 Data Analyst | SQL • Python • Power BI</h2>
