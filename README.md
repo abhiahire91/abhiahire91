@@ -111,6 +111,43 @@
 </p>
 
 ---
+<!--==================== GITHUB ANALYTICS ====================-->
+
+<h2 align="center">
+📊 GitHub Analytics
+</h2>
+
+<p align="center">
+<i>Tracking my coding journey and contributions.</i>
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhiahire91&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiahire91&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com?user=abhiahire91&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiahire91&theme=tokyo-night&hide_border=true&radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img width="750" src="https://github-profile-trophy.vercel.app/?username=abhiahire91&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+---
 
 <p align="center">
 
