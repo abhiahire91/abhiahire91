@@ -26,7 +26,6 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M4aGRmb3B2ZnB2cGF4YjJmZm1mMnJmMXI5bjA0NG9uYW8zN3pwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
 
-### Hi, I'm **Abhishek Ahire**
 
 💜 Passionate Data Analyst who enjoys solving business problems using data.
 
